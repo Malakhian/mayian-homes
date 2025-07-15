@@ -1,70 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Homepage (Highest priority) -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <!-- Homepage -->
   <url>
     <loc>https://www.maiyanhomes.netlify.app/</loc>
-    <lastmod>2025-07-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <lastmod>2025-07-15</lastmod> <!-- Updated to current date -->
   </url>
   
   <!-- Main Pages -->
   <url>
     <loc>https://www.maiyanhomes.netlify.app/about</loc>
-    <lastmod>2025-07-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <lastmod>2025-07-10</lastmod> <!-- Example: 5 days ago -->
   </url>
   
   <url>
     <loc>https://www.maiyanhomes.netlify.app/rooms</loc>
-    <lastmod>2025-07-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <lastmod>2025-07-12</lastmod>
   </url>
   
   <!-- Individual Room Pages -->
   <url>
     <loc>https://www.maiyanhomes.netlify.app/rooms/master-suite</loc>
-    <lastmod>2025-07-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <lastmod>2025-06-28</lastmod>
   </url>
   
   <url>
     <loc>https://www.maiyanhomes.netlify.app/rooms/deluxe-room</loc>
-    <lastmod>2025-07-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <lastmod>2025-06-28</lastmod>
   </url>
   
   <!-- Amenities & Services -->
   <url>
     <loc>https://www.maiyanhomes.netlify.app/amenities</loc>
-    <lastmod>2025-07-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2025-07-05</lastmod>
   </url>
   
   <!-- Contact & Legal -->
   <url>
     <loc>https://www.maiyanhomes.netlify.app/contact</loc>
-    <lastmod>2025-07-13</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-01-15</lastmod> <!-- Rarely updated -->
   </url>
   
   <url>
     <loc>https://www.maiyanhomes.netlify.app/privacy-policy</loc>
-    <lastmod>2025-07-13</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
+    <lastmod>2025-01-10</lastmod>
   </url>
   
   <url>
     <loc>https://www.maiyanhomes.netlify.app/terms</loc>
-    <lastmod>2025-07-13</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
+    <lastmod>2025-01-10</lastmod>
   </url>
 </urlset>
